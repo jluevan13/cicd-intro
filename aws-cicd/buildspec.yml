@@ -1,5 +1,6 @@
 version: 0.2
 env:
+  # Confirmed that secret is correct
   secrets-manager:
     AWS_KEY_ID: AppDeploy
     DOCKERHUB_PASS: AppDeploy
